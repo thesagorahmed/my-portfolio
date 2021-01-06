@@ -164,7 +164,7 @@ li a{
     margin: auto;
 }
 .testimonial-box img{
-    border-radius: 50%;
+    border-radius: 50% !important;
 }
 /* Footer Section*/
 .footer-section{
