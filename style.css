@@ -163,8 +163,8 @@ li a{
     width: 30%;
     margin: auto;
 }
-.testimonial-box img{
-    border-radius: 50% !important;
+.testi-image{
+    border-radius: 50% ;
 }
 /* Footer Section*/
 .footer-section{
